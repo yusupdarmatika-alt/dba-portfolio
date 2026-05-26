@@ -1,7 +1,2 @@
--- Create Login and User
-CREATE LOGIN dba_user
-WITH PASSWORD = 'StrongPassword123';
-
-CREATE USER dba_user FOR LOGIN dba_user;
-
-ALTER ROLE db_datareader ADD MEMBER dba_user;
+CREATE ROLE analyst LOGIN PASSWORD 'password123';
+GRANT SELECT ON employees TO analyst;

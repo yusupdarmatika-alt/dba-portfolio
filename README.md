@@ -1,27 +1,35 @@
-# Database Administrator Portfolio
+# Database Administration Portfolio
 
-This repository contains SQL scripts and database administration tasks for learning and portfolio purposes.
+This repository contains hands-on Database Administration projects including:
 
-## Features
-- Database Backup & Restore
-- Performance Monitoring
-- Query Optimization
-- User & Security Management
-- Database Maintenance Automation
+- Database Design
+- Backup & Restore
+- Monitoring
+- Performance Tuning
+- Security Management
+- Automation Scripts
+- Maintenance Tasks
 
 ## Technologies
-- SQL Server
 - PostgreSQL
 - MySQL
+- SQL Server
+- Bash
+- Linux
+- Git & GitHub
 
-## Project Structure
-- backup/
+## Folder Structure
+
+- database-design/
+- backup-restore/
 - monitoring/
-- optimization/
+- performance-tuning/
 - security/
 - automation/
+- maintenance/
 - documentation/
 - sample-database/
+- screenshots/
 
 ## Author
 Yusup
